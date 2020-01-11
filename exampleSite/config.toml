@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "mhuy2003@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/HaroldTalksTech.png"
+logo = "images/logo-1.png"
 phone = "+84 933 788 942"
 theme_color = "#231154"
 [params.contact]
