@@ -21,15 +21,15 @@ name = "Contact"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+author = "Harold Hoang.3"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "mhuy2003@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+logo = "images/HaroldTalksTech.png"
+phone = "+84 933 788 942"
+theme_color = "#231154"
 [params.contact]
 enable = true
 form_action = "#"
