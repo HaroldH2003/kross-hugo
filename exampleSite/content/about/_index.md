@@ -10,7 +10,7 @@ author_signature: images/about/signature.png
 
 ##### Passionate SaaS product marketing specialist with 8+ years of experience and track record. I am the go-to-option for your business to lead your highly creative marketing professionals and help craft go-to-market strategy for your product/service. By sustaining a focused drive to help announce new products and solutions to create awareness and fuel lead generation, I believe my capabilities will be a great asset for your business in order to help shape our top-of-mind image within our future customers.
 
-##### Native to marketing and CRM automation platforms like HubSpot, Mailchimp, Mandrill, Appsflyer, Zendesk.
+##### Native to marketing and CRM automation platforms like Google Ads, Wordpress, Facebook Page Manager, ClickFunnels, HubSpot, Mailchimp, Mandrill, Appsflyer, Zendesk.
 
 ##### As an experienced marketeer, my tenacious and proactive approach resulted in growth with my previous companies. My excellent managerial skills have provided my team with vital changes in SOP which leads to success in CRM.
 
