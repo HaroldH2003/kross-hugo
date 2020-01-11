@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Harold Hoang<br> Digital Marketer / Front-end developer
+  title: Hi! I’m <br> Harold Hoang<br> Digital Marketer &<br>Front-end developer
 about:
   enable: true
   content: I'm the guy who are crazed by technological advancement. Professional geek
@@ -78,7 +78,7 @@ service:
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
