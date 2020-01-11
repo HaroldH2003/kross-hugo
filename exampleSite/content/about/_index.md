@@ -6,8 +6,12 @@ author_image: images/about/avatar.png
 author_signature: images/about/signature.png
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I'm the guy who are crazed by technological advancement. Professional geek and proud dad. Technology has always been a part of my life stemming back to childhood when I would take things apart just to see how they worked.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Passionate SaaS product marketing specialist with 8+ years of experience and track record. I am the go-to-option for your business to lead your highly creative marketing professionals and help craft go-to-market strategy for your product/service. By sustaining a focused drive to help announce new products and solutions to create awareness and fuel lead generation, I believe my capabilities will be a great asset for your business in order to help shape our top-of-mind image within our future customers.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Native to marketing and CRM automation platforms like HubSpot, Mailchimp, Mandrill, Appsflyer, Zendesk.
+
+As an experienced marketeer, my tenacious and proactive approach resulted in growth with my previous companies. My excellent managerial skills have provided my team with vital changes in SOP which leads to success in CRM.
+
+Check out my resume at [https://resume.io/r/6d5eOVgzM](https://resume.io/r/6d5eOVgzM "https://resume.io/r/6d5eOVgzM")
