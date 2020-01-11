@@ -21,15 +21,15 @@ name = "Contact"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Harold Hoang.3"
+author = "Harold Hoang"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "mhuy2003@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo-1.png"
+logo = "images/logo.png"
 phone = "+84 933 788 942"
-theme_color = "#231154"
+theme_color = "#1D0E47"
 [params.contact]
 enable = true
 form_action = "#"
