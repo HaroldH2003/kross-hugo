@@ -1,18 +1,20 @@
-baseURL = "https://pretty-manicure.netlify.com"
+baseURL = "https://haroldhoangpolio.gq"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Harold Talks Tech | Blog Cong Nghe"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-url = "haroldhoangpolio.gq/contact"
-weight = 3
-[[menu.main]]
 URL = "blog"
 name = "Blog"
-url = "haroldhoangpolio.gq/blog"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
 weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "Truong Sa, Ward 2<br>Phu Nhuan District, HCMC, Vietnam"
 author = "Harold Hoang"
@@ -42,17 +44,17 @@ URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/haroldhuyhoang"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
-icon = "ti-dribbble"
+icon = "ti-github"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
