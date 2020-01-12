@@ -4,17 +4,15 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Harold Talks Tech | Blog Cong Nghe"
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+url = "haroldhoangpolio.gq/contact"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+url = "haroldhoangpolio.gq/blog"
+weight = 2
 [params]
 address = "Truong Sa, Ward 2<br>Phu Nhuan District, HCMC, Vietnam"
 author = "Harold Hoang"
