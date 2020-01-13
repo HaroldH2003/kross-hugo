@@ -14,3 +14,7 @@ fields:
 - type: text
   name: description
   label: description
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
