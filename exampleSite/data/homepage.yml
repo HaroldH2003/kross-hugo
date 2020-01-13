@@ -64,21 +64,15 @@ service:
   item:
   - title: STRATEGIC MARKETING PLANNING
     icon: ti-palette
-    content: |-
-      Research competition to identify threats and opportunities.
-      Monitor and analyze industry trends and market changes.
-      Conducting research and data analysis to inform business decisions.
-      Developing strategic plans and assessing company performance
+    content: ''
     highlighted: false
-  - title: UX Design
+  - title: Digital Marketing EXECUTION
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: true
-  - title: Interaction Design
+  - title: WEB DELOPMENT
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: false
 portfolio:
   enable: false
