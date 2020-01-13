@@ -4,10 +4,6 @@ date: 2019-05-12T06:14:34.000+00:00
 description: This is meta description.
 author_image: images/about/author-1.jpg
 author_signature: images/about/signature.png
-menu:
-  main:
-    URL: about
-    weight: 1
 
 ---
 ###### **I'm the guy who are crazed by technological advancement. Professional geek and proud dad. Technology has always been a part of my life stemming back to childhood when I would take things apart just to see how they worked.**
