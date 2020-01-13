@@ -1,9 +1,9 @@
 ---
-title: How Germany is preparing for the rise of the electric car
+title: "How Germany is preparing for the rise of the electric car"
 date: 2020-01-06T16:30:00+07:00
 image: "/images/blog/entry2/entry2-bgphoto.jpg"
-description: Electric cars and hybrids are a major part of Germany's climate policy.
-  Are government officials and energy sector leaders doing enough? A deeper look.
+description: "Electric cars and hybrids are a major part of Germany's climate policy.
+  Are government officials and energy sector leaders doing enough? A deeper look."
 
 ---
 #### **Electric cars and hybrids are a major part of Germany's climate policy. Are government officials and energy sector leaders doing enough? A deeper look.**
