@@ -1,5 +1,5 @@
 ---
-title: BLOG
+title: Blog
 date: 
 description: ''
 image: ''
