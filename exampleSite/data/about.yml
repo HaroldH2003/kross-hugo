@@ -5,18 +5,15 @@ work_process:
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
   - title: Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
   - title: Deliver
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
 team:
-  enable: true
+  enable: false
   title: My Team
   team_member:
   - title: Harold Hoang
