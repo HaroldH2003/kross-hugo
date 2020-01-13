@@ -14,17 +14,17 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Digital Marketing
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: WEB DEVELOPMENT
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: BRAND MANAGEMENT
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Customer Relationship Management
+    progress: 75%
     color: "#ffbcaa"
 experience:
   enable: true
