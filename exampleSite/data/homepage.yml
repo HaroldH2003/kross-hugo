@@ -62,10 +62,13 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: strategic marketing planning
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |-
+      - Research competition to identify threats and opportunities.
+      - Monitor and analyze industry trends and market changes.
+      - Conducting research and data analysis to inform business decisions.
+      - Developing strategic plans and assessing company performance
     highlighted: false
   - title: UX Design
     icon: ti-vector
