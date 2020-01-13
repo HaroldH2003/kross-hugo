@@ -27,7 +27,7 @@ skill:
     progress: 75%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -46,18 +46,18 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: bachelor of commerce (marketing stream)
+    year: "2011"
+    academy: rmit vietnam
+  - title: digital media studies
+    year: "2015"
+    academy: university of sussex
+  - title: Fundamental Web Design
+    year: "2018"
+    academy: coder School
+  - title: Fundamental Programming
+    year: "2019"
+    academy: Programming Hub
 service:
   enable: true
   title: Services
