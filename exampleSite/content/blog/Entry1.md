@@ -1,8 +1,8 @@
 +++
 date = 2020-01-03T04:00:00Z
 description = "After years of countless updates, Mozilla Firefox has finally caught up to Google Chrome. But that's not the only reason I switched to it. Apart from more efficient performance, it also offers a vastly superior browsing experience, with a range of privacy features and handy built-in utilities."
-image = "/images/entry1-bgphoto.png"
-title = "I finally switched from Chrome to Mozilla Firefox — and you should too "
+image = "/images/blog/entry1/entry1-bgphoto.png"
+title = "I finally switched from Chrome to Mozilla Firefox — and you should too"
 
 +++
 I have been in an on-and-off relationship with [Mozilla Firefox](https://www.digitaltrends.com/computing/best-browsers-for-privacy/) for the past five years. Every time I’d get ecstatic over a major new Firefox update — hoping to, at long last, break free from the hegemony of Google Chrome — my hopes would be crushed as soon as I began browsing the web like I normally do.
@@ -11,7 +11,7 @@ Firefox’s performance would fall noticeably short and struggle to keep up with
 
 In November, fed up with Chrome’s resource-hogging practices and Google’s growing web monopoly, I gave Firefox another shot. Similar to my earlier experiments, I updated Firefox to the latest version, fired up my usual set of web apps, and crossed my fingers. And somehow, months later, I’m still writing this piece in Google Docs on Firefox.
 
-### What kept me using Firefox
+#### **What kept me using Firefox**
 
 The biggest draw for me was, of course, the fact that Mozilla Firefox can finally go toe-to-toe with Google Chrome on the performance front, and often manages to edge it out as well. But that didn’t happen overnight.
 
@@ -21,13 +21,13 @@ Today, in addition to being fast, Firefox is resource-efficient, unlike most of 
 
 This rare balance of efficiency and performance is the result of the countless under-the-hood upgrades Firefox has rolled out in the last couple of years. One of the recent major performance updates [arrived in May when Mozilla natively integrated a handful of clever optimizations](https://blog.mozilla.org/blog/2019/05/21/latest-firefox-release-is-faster-than-ever/) for which users previously had to rely on third-party extensions.
 
-![Mozilla loading speed](/images/firefoxSpeedOptimized.gif "Mozilla loading speed")
+![Mozilla loading speed](/images/blog/entry1/firefoxSpeedOptimized.gif "Mozilla loading speed")
 
 Starting from v.67, Firefox began breaking down webpages to understand which components need to be rendered first and which ones can wait. For instance, on a news website, it will load an article’s content before all the ads and newsletter modules. This prioritization trick allows Firefox to process popular websites like Amazon and Instagram anywhere from 40% to 80% quicker. Plus, Firefox suspends tabs you haven’t visited in a while when your computer is running low on memory.
 
 Apart from these big releases, Firefox has also gained plenty of little, yet significant updates. In October, Mozilla’s engineering team managed to circumvent a critical macOS limitation to make Firefox more power-efficient on Macs. In most scenarios and websites, this alteration managed to nearly halve the power usage. Most recently, Mozilla quickly [patched a zero-day exploit that left your computer open to dangerous hacks](https://www.digitaltrends.com/news/the-us-government-says-you-need-to-update-firefox-right-now-zero-day-vulnerability/).
 
-### A better browsing experience
+#### **A better browsing experience**
 
 Once I got past that performance barrier, it was also quickly apparent to me how vastly superior the rest of Firefox’s browsing experience was.
 
@@ -41,13 +41,13 @@ Firefox also lets you look into just how invasive a website is. It actively upda
 
 There is a range of Mozilla first-party add-ons you can install for better security. Firefox Monitor tells you if any of your credentials have been compromised in a breach. Firefox Lockwise is a free, encrypted password manager you can use to sync your accounts across devices.
 
-![Mozilla](/images/firefoxrebrandlogos_transparent-1200x9999.png "Mozilla product line-up")
+![Mozilla](/images/blog/entry1/firefoxrebrandlogos_transparent-1200x9999.png "Mozilla product line-up")
 
 Mozilla’s design language is also a lot more coherent. Its interfaces and themes feel and look modern with subtle accents, its settings are descriptive and approachable, and all of that stays true for Firefox’s mobile clients too.
 
 It also offers a handful of useful tools built-in. The screenshot utility can automatically detect a website’s individual sections, like a paragraph, allowing you to quickly capture precisely what you need to. There’s a reader mode, picture-in-picture for watching videos in a floating window, and native integration of the Mozilla-owned read-later service, Pocket. In addition, it stuns notification pop-ups to make them less intrusive and disables autoplay videos.
 
-### Getting away from Google
+#### **Getting away from Google**
 
 What really clinched the switch to Mozilla Firefox was the fact that it’s the only cross-platform browser that’s not running Google’s open-source Chromium platform. Microsoft’s Edge, Brave, Opera, Vivaldi — each of these browsers run on Chromium, accelerating Google’s dominance over the web even when you’re not directly using a Chrome user. Firefox, on the other hand, is powered by Mozilla’s in-house Gecko engine that’s not dependent on Chromium in any way.
 
@@ -59,4 +59,4 @@ Being a Mozilla customer instead of a Google user itself feels liberating as wel
 
 In a world of [tech companies taking frail, facile shots at protecting user privacy and barely delivering on their commitments](https://www.digitaltrends.com/opinion/big-tech-promises-review-analysis-2019/), Mozilla is a breath of fresh air and you no longer have to live with any compromises to support it.
 
-Reference Source: [Digitaltrends.com](https://www.digitaltrends.com/computing/ "Digital Trends")
+**Reference Source:** [Digitaltrends.com](https://www.digitaltrends.com/computing/ "Digital Trends")

@@ -1,7 +1,7 @@
 ---
 title: How Germany is preparing for the rise of the electric car
 date: 2020-01-06T16:30:00+07:00
-image: "/images/entry2-bgphoto.jpg"
+image: "/images/blog/entry2/entry2-bgphoto.jpg"
 description: Electric cars and hybrids are a major part of Germany's climate policy.
   Are government officials and energy sector leaders doing enough? A deeper look.
 
@@ -38,7 +38,7 @@ Electric mobility plays a central role in the federal government's climate prote
 
 To make this feasible, Germany would need seven to 10 million electric cars by 2030. The federal government has created a “charging infrastructure master plan” to accelerate the expansion of the charging stations. The goal is a nationwide and customer-friendly charging network.
 
-![This map shows the number of e-charging stations per community in Germany. Big cities are clearly in the lead. ](/images/1578654188_charging-ports.jpg "This map shows the number of e-charging stations per community in Germany. Big cities are clearly in the lead. ")
+![This map shows the number of e-charging stations per community in Germany. Big cities are clearly in the lead. ](/images/blog/entry2/1578654188_charging-ports.jpg "This map shows the number of e-charging stations per community in Germany. Big cities are clearly in the lead. ")
 
 #### **Which states have the most charging stations?**
 
@@ -58,4 +58,4 @@ In mid-December, top officials from the federal government and the energy indust
 
 All parties agreed that the energy industry should issue guidelines for the operators of charging infrastructure in the coming year. In addition, approval procedures and processes for grid connection are to be accelerated.
 
-Reference source: [thelocal.de/](https://www.thelocal.de/ "https://www.thelocal.de/")
+**Reference source:** [thelocal.de/](https://www.thelocal.de/ "https://www.thelocal.de/")
