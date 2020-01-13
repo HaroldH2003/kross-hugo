@@ -1,6 +1,8 @@
 ---
 title: Blog
-date: 
+category:
+tag:
+date:
 description: ''
 image: ''
 

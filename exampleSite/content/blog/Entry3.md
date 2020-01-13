@@ -1,7 +1,9 @@
 ---
 title: Google Assistant now lets you torment roommates with ‘household notes’
+category: technology
+tag: apps; google; google assistant; android; artificial intelligence; software feature; note; experience;
 date: 2020-01-16T18:00:00+07:00
-image: "/images/entry3-bgphoto.jpg"
+image: "/images/blog/entry3/entry3-bgphoto.jpg"
 description: 'Forget about the good ol'' passive-aggressive refrigerator note: Google
   Assistant will let you leave &quot;household notes&quot; on your Android-enabled
   displays.'
@@ -16,7 +18,7 @@ Simply say, “Hey Google, leave a note that I had to wipe my ass with my bare h
 
 Speaking of leaving certain things you said out of Assistant’s ears, Google showcased a new command that lets you specifically remind the AI-powered helper to forget your words if unintended activation occurs. The magic phrase is “Hey Google, that wasn’t for you.”
 
-![Google Display](/images/household_notes_1_lqMiZ0E.max-1000x1000.png "Google Display")
+![Google Display](/images/blog/entry3/household_notes_1_lqMiZ0E.max-1000x1000.png "Google Display")
 
 In addition to household notes, the Big G is also rolling out a feature called “Scheduled Actions.” As the name suggests, the idea is to let you set custom schedules to turn on/off or start/stop any compatible smart device hooked up to Assistant. The feature will pair with Google Home, too.
 
