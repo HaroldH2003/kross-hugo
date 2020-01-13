@@ -1,45 +1,30 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-3.jpg"
-description: "This is meta description."
+title: Google Assistant now lets you torment roommates with ‘household notes’
+date: 2020-01-16T18:00:00+07:00
+image: "/images/entry3-bgphoto.jpg"
+description: 'Forget about the good ol'' passive-aggressive refrigerator note: Google
+  Assistant will let you leave &quot;household notes&quot; on your Android-enabled
+  displays.'
+
 ---
+Forget about the good ol’ passive-aggressive refrigerator note: Google Assistant will soon let you leave digital “household notes” directly on your Android-enabled Smart Display devices. The [AI-powered app](https://thenextweb.com/gaming/2019/09/26/microsoft-xbox-google-assistant/) is also getting a few other nifty features like schedules for your smart devices, and the ability to read out long-form content. But first, notes.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Long story short: You’ll feel a little prouder when you pretentiously remind your roommate they used up all the toilet paper and didn’t buy a new roll, because you no longer have to waste paper on post-it notes to teach your fellow basement dwellers proper manners.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Simply say, “Hey Google, leave a note that I had to wipe my ass with my bare hands because Sarah didn’t buy TP,” and Assistant will jot down your thoughtful remarks. My only hope is your fridge runs on Android because there’s no better place for a note like that. Also, fuck you, Sarah. “Hey Google, maybe leave that part out.” Glorious.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Speaking of leaving certain things you said out of Assistant’s ears, Google showcased a new command that lets you specifically remind the AI-powered helper to forget your words if unintended activation occurs. The magic phrase is “Hey Google, that wasn’t for you.”
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+![Google Display](/images/household_notes_1_lqMiZ0E.max-1000x1000.png "Google Display")
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+In addition to household notes, the Big G is also rolling out a feature called “Scheduled Actions.” As the name suggests, the idea is to let you set custom schedules to turn on/off or start/stop any compatible smart device hooked up to Assistant. The feature will pair with Google Home, too.
+
+I guess that’ll be useful to people who are about that smart device life, but I’m personally more excited about Google’s improved speech tech. Assistant will soon be able to read long-form pieces of text — think news pieces like this Pulitzer-tier masterpiece itself, and short stories — but not in the obnoxiously robotic tone you’re used to.
+
+To take advantage of this feature, just say “Hey Google, read it” or “Hey Google, read this page” on your Android device. Bonus: The content can also be translated into 42 different languages.
+
+“Unlike traditional screen readers, this experience is built on new voice data-sets to create more expressive and more natural sounding voices, so it’s easier to listen for a longer period of time,” VP of Product, Manuel Bronstein said in a [blog post](https://www.blog.google/products/assistant/ces-2020-google-assistant/).
+
+Google hasn’t clarified when the new features will reach us plebs, but it hopefully it won’t take too long — I can’t wait to leave more “household notes” to Sarah.
+
+**Reference source:** [https://thenextweb.com/](https://thenextweb.com/ "The Next Web")
