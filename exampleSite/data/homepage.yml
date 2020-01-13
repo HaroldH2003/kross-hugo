@@ -66,7 +66,7 @@ service:
     icon: ti-palette
     content: ''
     highlighted: false
-  - title: Digital Marketing EXECUTION
+  - title: DIGITAL MARKETING EXECUTION
     icon: ti-vector
     content: ''
     highlighted: true
