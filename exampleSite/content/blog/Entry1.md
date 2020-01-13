@@ -1,8 +1,11 @@
 ---
-title: "I finally switched from Chrome to Mozilla Firefox — and you should too"
-date: 2020-01-16T18:00:00+07:00
+title: I finally switched from Chrome to Mozilla Firefox — and you should too
+date: 2020-01-11T18:00:00+07:00
 image: "/images/blog/entry1/entry1-bgphoto.png"
-description: "After years of countless updates, Mozilla Firefox has finally caught up to Google Chrome. But that's not the only reason I switched to it. Apart from more efficient performance, it also offers a vastly superior browsing experience, with a range of privacy features and handy built-in utilities."
+description: After years of countless updates, Mozilla Firefox has finally caught
+  up to Google Chrome. But that's not the only reason I switched to it. Apart from
+  more efficient performance, it also offers a vastly superior browsing experience,
+  with a range of privacy features and handy built-in utilities.
 
 ---
 I have been in an on-and-off relationship with [Mozilla Firefox](https://www.digitaltrends.com/computing/best-browsers-for-privacy/) for the past five years. Every time I’d get ecstatic over a major new Firefox update — hoping to, at long last, break free from the hegemony of Google Chrome — my hopes would be crushed as soon as I began browsing the web like I normally do.
