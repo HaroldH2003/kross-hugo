@@ -7,7 +7,7 @@ image: "/images/blog/entry3/entry3-bgphoto.jpg"
 description: 'Forget about the good ol'' passive-aggressive refrigerator note: Google
   Assistant will let you leave &quot;household notes&quot; on your Android-enabled
   displays.'
-draft: true
+draft: false
 
 ---
 Forget about the good ol’ passive-aggressive refrigerator note: Google Assistant will soon let you leave digital “household notes” directly on your Android-enabled Smart Display devices. The [AI-powered app](https://thenextweb.com/gaming/2019/09/26/microsoft-xbox-google-assistant/) is also getting a few other nifty features like schedules for your smart devices, and the ability to read out long-form content. But first, notes.
