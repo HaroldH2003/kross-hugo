@@ -62,13 +62,13 @@ service:
   enable: true
   title: Services
   item:
-  - title: strategic marketing planning
+  - title: STRATEGIC MARKETING PLANNING
     icon: ti-palette
     content: |-
-      - Research competition to identify threats and opportunities.
-      - Monitor and analyze industry trends and market changes.
-      - Conducting research and data analysis to inform business decisions.
-      - Developing strategic plans and assessing company performance
+      Research competition to identify threats and opportunities.
+      Monitor and analyze industry trends and market changes.
+      Conducting research and data analysis to inform business decisions.
+      Developing strategic plans and assessing company performance
     highlighted: false
   - title: UX Design
     icon: ti-vector
