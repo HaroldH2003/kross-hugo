@@ -18,3 +18,5 @@ fields:
   type: tag_list
   default: []
   label: tags
+pages:
+- exampleSite/content/blog/2020-will-be-a-year-of-refinement-for-android-phones.md
