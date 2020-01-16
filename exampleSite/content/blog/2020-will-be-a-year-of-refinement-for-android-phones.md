@@ -50,7 +50,7 @@ Project Treble is working, and companies like OnePlus and Xiaomi are taking upda
 
 ### **90 and 120Hz displays will become more commonplace**
 
-[![](https://i.ytimg.com/vi/iG2DgjrLDJc/maxresdefault.jpg)](https://www.youtube.com/watch?v=iG2DgjrLDJc&feature=emb_logo)
+[![](https://i.ytimg.com/vi/iG2DgjrLDJc/maxresdefault.jpg)](https://www.youtube.com/watch?v=iG2DgjrLDJc&feature=emb_logo "Does 90Hz Really Matter?")
 
 Ever since smartphones became a thing, the go-to display refresh rate has been 60Hz. It still is today. But in 2020, higher refresh rate displays will become even more common than they are today.
 
