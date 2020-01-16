@@ -1,7 +1,6 @@
 +++
 date = 2020-01-02T06:00:00Z
 description = "The latest masterpiece from one of my favorite writers."
-draft = true
 image = "/images/EOYB_20191126_Book_Growth_article-hero_1200x564_v1.jpg"
 tags = ["Books", " Reading Lists", "Personal", "Holidays-Books", "2020", "new-year-resolution"]
 title = "[ESCAPES FROM THE HEAT] A Book about Growth—In Every Sense"
