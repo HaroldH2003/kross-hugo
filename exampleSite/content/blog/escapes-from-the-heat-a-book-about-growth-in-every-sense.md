@@ -1,7 +1,6 @@
 +++
 date = 2020-01-02T06:00:00Z
 description = "The latest masterpiece from one of my favorite writers."
-draft = true
 image = "/images/EOYB_20191126_Book_Growth_article-hero_1200x564_v1.jpg"
 tags = ["Books", " Reading Lists", "Personal", "Holidays-Books", "2020", "new-year-resolution"]
 title = "[ESCAPES FROM THE HEAT] A Book about Growth—In Every Sense"
@@ -33,4 +32,4 @@ I don’t agree with all of his analysis. In particular, I’m more optimistic t
 
 But I’ve always felt that Smil’s great strength isn’t predicting the future, it’s documenting the past. There’s great value in that—you can’t see what’s coming next if you don’t understand what’s come before. Nobody sees the big picture with as wide an aperture as Vaclav Smil.
 
-**Reference Source:** 
+**Reference Source:** [Gatesnotes.com](https://www.gatesnotes.com "GatesNotes.com")
