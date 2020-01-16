@@ -89,3 +89,5 @@ Xiaomi seems to be all-in on the high megapixel race. It’s also one of the OEM
 This isn’t to say we’ll only see iteration in 2020, or that 2020 will be a boring year. Sure, companies will stick to the foundation they laid in 2019. But we’re at the forefront of big, new technologies that will fundamentally change the way we use smartphones going forward. 5G and foldables will bring a much-needed shot in the arm to the smartphone world, as cameras become more advanced and software updates roll out quicker than ever before.
 
 What are you most looking forward to in 2020? 5G, foldables, or something else? Let’s hear those thoughts in the comments.
+
+**Reference Source:** [Android Authority](https://www.androidauthority.com)
