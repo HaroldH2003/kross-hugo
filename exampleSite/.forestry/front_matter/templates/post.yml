@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: title
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - type: datetime
   name: date
   label: date
@@ -14,9 +18,5 @@ fields:
 - type: text
   name: description
   label: description
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 pages:
 - exampleSite/content/blog/2020-will-be-a-year-of-refinement-for-android-phones.md
