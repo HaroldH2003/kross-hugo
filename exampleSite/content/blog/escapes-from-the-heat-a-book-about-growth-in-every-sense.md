@@ -6,7 +6,9 @@ tags = ["Books", " Reading Lists", "Personal", "Holidays-Books", "2020", "new-ye
 title = "[ESCAPES FROM THE HEAT] A Book about Growth—In Every Sense"
 
 +++
-After astronaut Rusty Schweickart looked down on Earth from space for the first time, he described a sense of awe that has become common to almost every space traveler since: “You realize that on that little blue and white thing there is everything that means anything to you, all history and music and poetry and art and death and birth and love, all of it on that little spot out there you can cover with your thumb.” NASA calls this realization “the overview effect.” No matter what country you’re from, you return from space with a feeling that our home is tiny, fragile, and something we need to protect.
+#### After astronaut Rusty Schweickart looked down on Earth from space for the first time, he described a sense of awe that has become common to almost every space traveler since:
+
+ “You realize that on that little blue and white thing there is everything that means anything to you, all history and music and poetry and art and death and birth and love, all of it on that little spot out there you can cover with your thumb.” NASA calls this realization “the overview effect.” No matter what country you’re from, you return from space with a feeling that our home is tiny, fragile, and something we need to protect.
 
 Anyone who reads the new book _Growth_, the newest of 39 brilliant books by one of my favorite thinkers, will come away with similar urgency. The author, the Czech-Canadian professor Vaclav Smil, approaches things from a scientist’s point of view, not an astronaut’s, but he reaches the same conclusion: Earth is fragile and “before it is too late, we should embark in earnest on the most fundamental existential \[task\] of making any future growth compatible with the long-term preservation of the only biosphere we have.”
 
