@@ -28,7 +28,7 @@ phone = "+84 933 788 942"
 theme_color = "#1D0E47"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "submit"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
