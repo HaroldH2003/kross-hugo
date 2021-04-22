@@ -4,10 +4,10 @@ item:
   project_url: project-no1
   category:
   - Landing Page
-- image: images/portfolio/item-2.png
-  project_url: "#"
+- image: images/screen-capture_select-area_20210423020657.png
+  project_url: ''
   category:
-  - hello
+  - Landing Page
 - image: images/portfolio/item-5.png
   project_url: "#"
   category: design
