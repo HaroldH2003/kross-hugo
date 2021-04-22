@@ -1,9 +1,9 @@
 +++
-description = "Fin Tốt - Personal Loan - Landing Page"
+description = "Fin Tốt Personal Loan Landing Page tailor-made for Standard Chartered Vietnam"
 image = "/images/taichinhtot_full.png"
 publishing_date = 2020-06-18T17:00:00Z
 tag = ["Landing page"]
-title = "Project #1"
+title = "Fin Tốt - Landing Page"
 
 +++
 URL: [https://offer.taichinhtot.com](https://offer.taichinhtot.com "Tai Chinh Tot - Landing Page")
