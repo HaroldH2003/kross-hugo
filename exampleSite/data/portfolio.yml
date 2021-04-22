@@ -29,5 +29,5 @@ item:
   project_url: http://examplesite.com
   category: branding
 clients_logo_slider:
-  enable: true
+  enable: false
   title: My Clients
