@@ -7,6 +7,15 @@ fields:
   config:
     required: true
   label: Title
+- name: publishing_date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Publishing Date
 - name: tag
   type: tag_list
   default: []
@@ -16,14 +25,5 @@ fields:
   config:
     maxSize: 64
   label: Image
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: Description
 pages:
 - exampleSite/content/portfolio/Portfolio/fin-t-t-personal-loan-landing-page.md
