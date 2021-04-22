@@ -4,9 +4,13 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Harold Talks Tech | My Portfolio"
 [[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = "3"
+[[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = "4"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
