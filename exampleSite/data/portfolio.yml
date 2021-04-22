@@ -3,7 +3,7 @@ item:
 - image: images/portfolio/TaiChinhTot_cropped.png
   project_url: project-8
   category:
-  - landing page
+  - landingpage
 - image: images/portfolio/item-2.png
   project_url: "#"
   category: branding
