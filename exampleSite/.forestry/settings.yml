@@ -7,10 +7,10 @@ sections:
 - type: directory
   path: exampleSite/content/portfolio
   label: Portfolio
-  create: documents
+  create: all
   match: "*"
   templates:
-  - post
+  - portfolio
 - type: directory
   path: exampleSite/content/blog
   label: Post
