@@ -25,3 +25,5 @@ fields:
     schema:
       format: html-blocks
   label: Description
+pages:
+- exampleSite/content/portfolio/Portfolio/fin-t-t-personal-loan-landing-page.md
