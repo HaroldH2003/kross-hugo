@@ -8,6 +8,8 @@ categories:
 - illustration
 - development
 description: This is meta description.
+tags:
+- landing page
 
 ---
 #### Project Requirements
