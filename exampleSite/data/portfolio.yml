@@ -1,8 +1,9 @@
 ---
 item:
 - image: images/taichinhtot_cropped.png
-  project_url: pages/examplesite-content-portfolio-project-8-md
-  category: []
+  project_url: portfolio/pages/examplesite-content-portfolio-project-8-md
+  category:
+  - landing page
 - image: images/portfolio/item-2.png
   project_url: "#"
   category: branding
