@@ -7,6 +7,11 @@ fields:
   config:
     required: true
   label: Title
+- name: description
+  type: text
+  config:
+    required: true
+  label: Description
 - name: publishing_date
   type: datetime
   description: ''
