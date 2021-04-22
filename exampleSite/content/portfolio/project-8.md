@@ -1,6 +1,6 @@
 ---
 title: Fin Tốt - Personal Loan
-date: 2020-07-01T13:14:34+07:00
+date: '2020-07-01T13:14:34.000+07:00'
 image: "/images/taichinhtot_full.png"
 client: John Doe
 project_url: https://themefisher.com/
@@ -10,6 +10,7 @@ categories:
 description: This is meta description.
 tags:
 - landing page
+draft: true
 
 ---
 #### Project Requirements
