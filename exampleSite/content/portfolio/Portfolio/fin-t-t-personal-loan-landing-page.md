@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 image = "/images/taichinhtot_full.png"
 tag = ["Landing page"]
 title = "Fin Tốt - Personal Loan - Landing page"
