@@ -1,11 +1,10 @@
 ---
 title: Fin Tốt - Personal Loan - Landing page
 description: This is meta description.
-publishing_date: 2020-06-01T00:00:00+07:00
+publishing_date: 2020-06-01T00:00:00.000+07:00
 tag:
 - Landing page
 image: "/images/taichinhtot_full.png"
-draft: true
 
 ---
 ### Project Requirements
