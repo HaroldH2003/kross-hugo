@@ -2,7 +2,7 @@
 image = "/images/taichinhtot_full.png"
 publishing_date = 2020-06-18T17:00:00Z
 tag = ["Landing page"]
-title = "Harold Talks Tech | My Portfolio"
+title = "Project #1"
 
 +++
 ### Project Requirements
