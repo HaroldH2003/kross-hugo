@@ -1,4 +1,4 @@
-baseURL = "https://get2knowharold.tk"
+baseURL = "https://pretty-manicure.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -50,7 +50,7 @@ preloader = ""
 URL = "https://www.facebook.com/haroldhuyhoang"
 icon = "ti-facebook"
 [[params.social]]
-URL = "https://get2knowharold.tk"
+URL = "https://pretty-manicure.netlify.app"
 icon = "ti-write"
 [[params.social]]
 URL = "https://github.com/HaroldH2003"
