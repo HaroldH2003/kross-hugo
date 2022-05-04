@@ -8,7 +8,7 @@ author_signature: images/about/signature.png
 ---
 ###### **I'm the guy who is crazed by technological advancement. Professional geek and proud dad. Technology has always been a part of my life stemming back to childhood when I would take things apart just to see how they worked.**
 
-###### **Passionate SaaS product marketing specialist with 8+ years of experience and track record. I am the go-to option for your business to lead your highly creative marketing professionals and help craft a go-to-market strategy for your product/service. By sustaining a focused drive to help announce new products and solutions to create awareness and fuel lead generation, I believe my capabilities will be a great asset for your business in order to help shape our top-of-mind image within our future customers.**
+###### **Passionate SaaS product marketing specialist with 8+ years of experience and track record. I am the go-to option for your business to lead your highly creative marketing professionals and help craft a go-to-market strategy for your product/service. By sustaining a focused drive to help announce new products and solutions to create awareness and fuel lead generation, I believe my capabilities will be a great asset for your business in order to help shape our top-of-mind image among our future customers.**
 
 ###### **Native to digital marketing and CRM automation platforms like Google Ads, WordPress, Facebook Business Manager, ClickFunnels, HubSpot, Mailchimp, Mandrill, Appsflyer, Zendesk.**
 
