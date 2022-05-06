@@ -25,7 +25,7 @@ google_analitycs_id = "UA-122642609-3"
 home = "Home"
 logo = "images/logo.png"
 phone = "+84 933 788 942"
-theme_color = "#41228E"
+theme_color = "rgb(60, 155, 31)"
 [params.contact]
 enable = true
 form_action = "submit"
