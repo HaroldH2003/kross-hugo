@@ -14,4 +14,4 @@ author_signature: images/about/signature.png
 
 ###### **As an experienced marketeer, my tenacious and proactive approach resulted in growth with my previous companies. My excellent managerial skills have provided my team with vital changes in SOP which leads to success in CRM.**
 
-###### **Check out my resume at** [https://resume.io/r/FXDaTuHmV](https://resume.io/r/RVRSdXx2u "https://resume.io/r/RVRSdXx2u")
+###### **Check out my resume here at** [https://resume.io/r/FXDaTuHmV](https://resume.io/r/RVRSdXx2u "https://resume.io/r/RVRSdXx2u")
