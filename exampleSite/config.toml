@@ -16,9 +16,9 @@ URL = "about"
 name = "About"
 weight = 1
 [params]
-address = "Truong Sa, Ward 2, Phu Nhuan District, HCMC, Vietnam"
+address = "Truong Sa, Ward Cau Kieu, Ho Chi Minh City, Vietnam"
 author = "Harold Hoang"
-copyright = "Copyright &copy; 2021 Harold Hoang | A Theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2025 Harold Hoang | A Theme by [gethugothemes](https://gethugothemes.com)"
 description = "My Personal Portfolio Webpage"
 email = "mhuy2003@gmail.com"
 google_analitycs_id = "UA-122642609-3"
@@ -47,14 +47,11 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = false
 preloader = ""
 [[params.social]]
-URL = "https://www.facebook.com/haroldhuyhoang"
-icon = "ti-facebook"
+URL = "https://www.linkedin.com/in/manhhuyhoang"
+icon = "ti-linkedin"
 [[params.social]]
 URL = "https://howdyheyharold.page"
 icon = "ti-write"
 [[params.social]]
 URL = "https://github.com/HaroldH2003"
 icon = "ti-github"
-[[params.social]]
-URL = "https://twitter.com/Piggy_Harold"
-icon = "ti-twitter-alt"
